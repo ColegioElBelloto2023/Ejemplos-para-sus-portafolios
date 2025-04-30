@@ -1,0 +1,6 @@
+.menu{
+    background-color: black;
+}
+.menu, .menu a {
+    color: aliceblue !important;
+}
